@@ -1,7 +1,7 @@
 import openai as ai
 from sys import argv
 
-ai.api_key = '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'
+ai.api_key = 'sk-key_here'
 
 
 def generate_gpt3_response(user_text, print_output=False):
